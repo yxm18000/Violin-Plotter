@@ -1,7 +1,7 @@
 # Violin-Plotter
 
 ## 概要
-このツールは、PythonのTkinter、pandas、matplotlib、seabornを使用して構築された、CSVデータからバイオリンプロットを簡単に生成できるGUIアプリケーションです。データ分析やレポート作成において、視覚的に分かりやすいグラフを素早く作成するのに役立ちます。
+CSVデータからバイオリンプロットを簡単に生成できるGUIアプリケーションです。データ分析やレポート作成において、視覚的に分かりやすいグラフを素早く作成するのに役立ちます。
 
 
 <img width="896" height="731" alt="Image" src="https://github.com/user-attachments/assets/ba97ba30-0418-4395-b0d6-a4d408ae34d1" />
